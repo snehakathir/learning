@@ -1,0 +1,18 @@
+GitHub Push
+↓
+Jenkins Trigger
+↓
+Maven Build
+↓
+JUnit Test
+↓
+Sonar Scan
+↓
+Docker Build
+↓
+Push Image
+↓
+Deploy to Kubernetes
+↓
+Monitor Logs
+
